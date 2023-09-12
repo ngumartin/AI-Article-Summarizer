@@ -127,7 +127,7 @@ const Demo = () => {
             wrapperStyle={{}}
             wrapperClass="comment-wrapper"
             color="#fff"
-            backgroundColor="#ea8e0a"
+            backgroundColor="#1b4571"
         />
         ) : error ? (
         <p className="font-inter font-bold text-black text-center">
